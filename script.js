@@ -3,9 +3,9 @@ var root = {
 /*     r: 125,
     g: 52,
     b: 253 */
-    r: 3,
-    g: 200,
-    b: 98
+    r: 255,
+    g: 119,
+    b: 34
     },
     rainbowSpeed: 0.5,
     rainbow: false,
